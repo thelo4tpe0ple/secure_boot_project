@@ -5,3 +5,5 @@
 /bootloader
 /build
 *.pem
+.idea
+/__pycache__
